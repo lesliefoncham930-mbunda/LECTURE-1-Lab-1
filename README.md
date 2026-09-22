@@ -5,11 +5,7 @@
 **Board:** ESP32-S3-DevKitC-1 v1.1 (onboard RGB LED, GPIO 38)
 **IDE:** Arduino IDE 2.x, board package "esp32 by Espressif Systems"
 
-> ⚠️ **Before you submit:** This README has a few spots marked
-> `[FILL IN]`. Those need your own hardware run — actual behaviour you
-> observed, your COM/tty port, and your real Serial Monitor screenshot.
-> Nothing here should be submitted without you having actually uploaded
-> and watched each sketch on your own board first.
+
 
 ## Learning Outcomes Covered
 
